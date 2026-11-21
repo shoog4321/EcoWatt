@@ -1,0 +1,21 @@
+{
+  "ADV_004": {
+    "patterns": [
+      "(if (the )?filters? (are|is) (serviceable|in good condition|cleanable))|(before (cleaning|replacing))|(check (the )?filters?)",
+      "month"
+    ],
+    "hint": "Keep the condition about the filters (they must be serviceable / checked first) and keep the monthly timing."
+  },
+  "ADV_009": {
+    "patterns": ["(buying|replac|purchas|upgrad|new unit|when (you )?(buy|replace))"],
+    "hint": "State that this applies when buying or replacing a unit."
+  },
+  "ADV_012": {
+    "patterns": ["(unoccupied|empty|not in use|no one is in|leaving a room|when you leave)"],
+    "hint": "State that this applies to unoccupied or empty rooms (or when leaving a room)."
+  },
+  "ADV_060": {
+    "patterns": ["(switch off|turn off|power off|disconnect)", "(cool|cooled|before cleaning)"],
+    "hint": "Say to switch the unit off and let it cool (or do so before cleaning)."
+  }
+}

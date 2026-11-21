@@ -1,0 +1,8 @@
+# Main backend (CPU host)
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx>=0.27
+python-dotenv>=1.0          # for uvicorn --env-file .env
+pydantic>=2.7
+python-multipart>=0.0.9      # file upload for /analyze-bill
+# Optional bill scanning (/analyze-bill): see requirements-ocr.txt

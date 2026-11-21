@@ -1,0 +1,387 @@
+[
+    {
+        "advice_id": "ADV_001",
+        "approved_type": "cooling",
+        "approved_advice": "Setting your thermostat to feel comfortable can help reduce heating costs.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_002",
+        "approved_type": "cooling",
+        "approved_advice": "Lowering your thermostat by just 1°C can save energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_003",
+        "approved_type": "cooling",
+        "approved_advice": "Heating systems should be used only for occupied rooms to conserve energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_004",
+        "approved_type": "cooling",
+        "approved_advice": "Monthly cleaning or replacement of air conditioner filters is recommended.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_005",
+        "approved_type": "cooling",
+        "approved_advice": "Ceiling fans should be turned off when a room is unoccupied.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_006",
+        "approved_type": "cooling",
+        "approved_advice": "Wearing warm clothes indoors helps conserve heat.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_007",
+        "approved_type": "cooling",
+        "approved_advice": "The fan switch on a thermostat should be set to 'Auto' unless an indoor air quality professional has configured the system to operate continuously for health reasons.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_008",
+        "approved_type": "cooling",
+        "approved_advice": "During summer, closing window coverings blocks sun's heat.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_009",
+        "approved_type": "cooling",
+        "approved_advice": "An oversized air conditioner performs less efficiently and effectively than a properly sized unit.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_010",
+        "approved_type": "lighting",
+        "approved_advice": "Replacing old lightbulbs with LED ones helps conserve energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_011",
+        "approved_type": "lighting",
+        "approved_advice": "When selecting light bulbs, check the energy label and choose A-rated bulbs for higher efficiency.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_012",
+        "approved_type": "lighting",
+        "approved_advice": "Turning lights off when leaving a room saves energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_013",
+        "approved_type": "lighting",
+        "approved_advice": "Efficient lightbulbs perform best and have their longest lifetimes when used in energy-efficient light fixtures.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_014",
+        "approved_type": "lighting",
+        "approved_advice": "Timers and photocells can save electricity by automatically turning lights off when not in use.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_015",
+        "approved_type": "lighting",
+        "approved_advice": "Using dimmers can save electricity when lowering light levels.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_016",
+        "approved_type": "lighting",
+        "approved_advice": "Keeping curtains or shades open allows for daylighting instead of using lights.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_017",
+        "approved_type": "lighting",
+        "approved_advice": "Small, energy-efficient task lights are suitable for computer work, reading, or focused tasks on desks and tables.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_018",
+        "approved_type": "lighting",
+        "approved_advice": "LED products and fixtures are effective for outdoor use, featuring automatic daylight shut-off and motion sensors.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_019",
+        "approved_type": "lighting",
+        "approved_advice": "ENERGY STAR decorative light strings use 75% less energy than incandescent strands.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_020",
+        "approved_type": "electronics",
+        "approved_advice": "Computers and other equipment should be turned off when not in use.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_021",
+        "approved_type": "electronics",
+        "approved_advice": "Power management settings on computers and monitors put devices into sleep modes after extended inactivity.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_022",
+        "approved_type": "electronics",
+        "approved_advice": "Advanced power strips can prevent electronics from drawing power when not in use.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_023",
+        "approved_type": "electronics",
+        "approved_advice": "Battery chargers should be unplugged when batteries are fully charged or not in use.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_024",
+        "approved_type": "electronics",
+        "approved_advice": "Unplugging electronics when not in use conserves energy and reduces electricity bills.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_029",
+        "approved_type": "behavior",
+        "approved_advice": "Showering instead of bathing can save energy by heating less water.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_030",
+        "approved_type": "insulation",
+        "approved_advice": "Insulation of hot water tanks and pipes helps prevent heat loss.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_031",
+        "approved_type": "insulation",
+        "approved_advice": "Closing fireplace and chimney openings (unless burning a fire) helps prevent warm air from escaping.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_032",
+        "approved_type": "insulation",
+        "approved_advice": "Tight-fitting curtains or shades on windows can help retain even more heat.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_033",
+        "approved_type": "insulation",
+        "approved_advice": "Low-e film applied to the inside of windows helps prevent heat loss.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_034",
+        "approved_type": "refrigeration",
+        "approved_advice": "Refrigerator and freezer temperatures are typically set between 35°F and 38°F and 0°F respectively for optimal performance.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_035",
+        "approved_type": "refrigeration",
+        "approved_advice": "Check that refrigerator door seals are airtight by closing the door over a piece of paper.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_036",
+        "approved_type": "refrigeration",
+        "approved_advice": "Covering liquids and wrapping foods helps reduce refrigerator workload.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_037",
+        "approved_type": "refrigeration",
+        "approved_advice": "Place the refrigerator away from the oven, dishwasher, and out of direct sunlight.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_038",
+        "approved_type": "refrigeration",
+        "approved_advice": "Leaving a few inches between a refrigerator and walls, and keeping condenser coils clean on older models, helps improve efficiency.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_039",
+        "approved_type": "water heating",
+        "approved_advice": "Lowering the hot water temperature to 120°F can save 8% of your heating energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_040",
+        "approved_type": "water heating",
+        "approved_advice": "A water heater set at 120°F is considered safe for most populations.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_041",
+        "approved_type": "water heating",
+        "approved_advice": "Heat traps installed on hot and cold pipes at the water heater prevent heat loss.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_042",
+        "approved_type": "water heating",
+        "approved_advice": "Draining a quart of water from a water tank every 3 months helps remove sediment that can impede heat transfer.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_043",
+        "approved_type": "water heating",
+        "approved_advice": "Moving the faucet lever to the cold position saves water when using small amounts.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_044",
+        "approved_type": "laundry",
+        "approved_advice": "Using warm water rather than hot can reduce a load's energy use by half, and cold water usage saves more.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_045",
+        "approved_type": "laundry",
+        "approved_advice": "High-speed or extended spin cycles remove more moisture before drying.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_046",
+        "approved_type": "laundry",
+        "approved_advice": "Cleaning the lint screen after each load and using the long nozzle tip on a vacuum cleaner can help remove lint from the slot.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_047",
+        "approved_type": "laundry",
+        "approved_advice": "Separate drying of towels and heavier cotton items from lighter-weight clothes can prevent moisture transfer.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_048",
+        "approved_type": "laundry",
+        "approved_advice": "Air-drying laundry on clothes lines or racks is effective for conserving energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_049",
+        "approved_type": "cooking",
+        "approved_advice": "Small appliances like air fryers and toaster ovens use less energy for small meals compared to larger stoves or ovens.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_050",
+        "approved_type": "cooking",
+        "approved_advice": "Using a pan that matches the heating element size reduces cooking time.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_051",
+        "approved_type": "cooking",
+        "approved_advice": "Covering pots and pans reduces cooking time and conserves energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_053",
+        "approved_type": "cooking",
+        "approved_advice": "Clean range-top burners and reflectors to improve heat reflection and save energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_054",
+        "approved_type": "cooling",
+        "approved_advice": "A smart or programmable thermostat can automatically adjust home temperatures when away or asleep.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_055",
+        "approved_type": "cooling",
+        "approved_advice": "Clearing debris around an air conditioner's outdoor unit can improve efficiency.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_056",
+        "approved_type": "appliances",
+        "approved_advice": "Running the clothes dryer with a full load optimizes the thermal energy cycle.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_057",
+        "approved_type": "heating",
+        "approved_advice": "Insulating attic floors or roof spaces helps prevent heat from rising and escaping during cold snaps.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_058",
+        "approved_type": "water heating",
+        "approved_advice": "Low-flow showerheads reduce both water volume and heating energy.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_059",
+        "approved_type": "electronics",
+        "approved_advice": "Leaving gaming consoles in sleep mode consumes less power than leaving them completely turned off.",
+        "applicability": "all",
+        "action_type": "general"
+    },
+    {
+        "advice_id": "ADV_060",
+        "approved_type": "lighting",
+        "approved_advice": "Cleaning dust from light bulbs and lamps periodically helps maintain optimal lumen output.",
+        "applicability": "all",
+        "action_type": "general"
+    }
+]

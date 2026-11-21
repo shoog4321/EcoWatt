@@ -1,0 +1,12 @@
+# Optional: bill scanning (POST /analyze-bill). Install after requirements.txt:
+#   .venv/bin/pip install -r requirements-ocr.txt
+# torch 2.2.2 / torchvision 0.17.2 are the last versions for Intel Macs and need numpy < 2.
+# On Apple Silicon / Linux newer torch versions also work.
+torch==2.2.2
+torchvision==0.17.2
+numpy<2
+easyocr==1.7.2
+opencv-python-headless==4.11.0.86
+# First start downloads the EasyOCR Arabic + English models (~300 MB) into ~/.EasyOCR.
+# python.org Python on macOS: if that fails with CERTIFICATE_VERIFY_FAILED, start the backend once with
+#   SSL_CERT_FILE=$(.venv/bin/python -m certifi)

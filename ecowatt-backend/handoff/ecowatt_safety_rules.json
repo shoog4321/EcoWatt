@@ -1,0 +1,16 @@
+{
+  "ADV_004": [
+    "(if (the )?filters? (are|is) (serviceable|in good condition|cleanable))|(before (cleaning|replacing))|(check (the )?filters?)",
+    "month"
+  ],
+  "ADV_009": [
+    "(buying|replac|purchas|upgrad|new unit|when (you )?(buy|replace))"
+  ],
+  "ADV_012": [
+    "(unoccupied|empty|not in use|no one is in|leaving a room|when you leave)"
+  ],
+  "ADV_060": [
+    "(switch off|turn off|power off|disconnect)",
+    "(cool|cooled|before cleaning)"
+  ]
+}

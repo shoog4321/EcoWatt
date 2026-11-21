@@ -1,0 +1,7 @@
+# Optional: AC energy-label scanning (POST /analyze-ac-label), from the appliance-label OCR notebook.
+#   .venv/bin/pip install -r requirements-label.txt
+# PP-OCRv5 mobile models run on a normal CPU; they download (~20 MB) on the first scan.
+paddlepaddle==3.0.0
+paddleocr==3.7.0
+opencv-python-headless
+pillow

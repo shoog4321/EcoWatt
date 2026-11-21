@@ -1,0 +1,11 @@
+# GPU host only. Versions follow Table 16 of the project report (not re-verified here).
+transformers>=5.0.0,<6.0.0
+accelerate
+bitsandbytes
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+# lm-format-enforcer must be installed from GitHub, as in the report:
+#   pip install git+https://github.com/noamgat/lm-format-enforcer
+python-multipart>=0.0.9      # file upload for /ocr
+easyocr==1.7.2               # bill scanning on the GPU (uses the CUDA torch already on Kaggle)
