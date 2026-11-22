@@ -4,7 +4,7 @@
 
 EcoWatt helps households in Saudi Arabia understand and reduce their electricity use. Users enter or scan their
 monthly SEC bill; the system compares it with regional baselines for similar homes, explains what drives the
-consumption and generates personalised, safety-checked saving advice with a fine-tuned language model. The app can
+consumption and generates personalised, safety-checked saving advice with a language model (Qwen3-4B-Instruct). The app can
 also read an air conditioner's SASO energy-efficiency label and explain it.
 
 ## Contents
